@@ -1,0 +1,6 @@
+{
+  "moz": true,
+  "esversion": 9,
+  // Relaxing
+  "asi": false // true: Tolerate Automatic Semicolon Insertion (no semicolons)
+}

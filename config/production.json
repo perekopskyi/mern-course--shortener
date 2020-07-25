@@ -1,0 +1,6 @@
+{
+  "port": "5000",
+  "jwtSecret": "yevhenii mern project",
+  "mongoUrl": "mongodb+srv://yevhenii:12345@cluster0.ksr1a.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
